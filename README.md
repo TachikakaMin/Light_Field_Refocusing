@@ -5,5 +5,11 @@ Refocusing
 
 
 Q : quit
+
+
 Up / Down: z2
+
+
 Right / Left: z1
+
+
